@@ -11,6 +11,6 @@ A few US SMS Domains:
 
 ####Sprint - messaging.sprintpcs.com - United States
 
-#####T-Mobile - tmomail.net -	United States
+####T-Mobile - tmomail.net -	United States
 
-#####Verizon Wireless (SMS) - vtext.com - United States
+####Verizon Wireless (SMS) - vtext.com - United States
