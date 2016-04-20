@@ -7,10 +7,10 @@ To find the correct carrier domain you can checkout this site <a href="http://th
 
 A few US SMS Domains:
 
-####AT&T (SMS) - txt.att.net - United States
+#####AT&T (SMS) - txt.att.net - United States
 
-####Sprint - messaging.sprintpcs.com - United States
+#####Sprint - messaging.sprintpcs.com - United States
 
-####T-Mobile - tmomail.net -	United States
+#####T-Mobile - tmomail.net -	United States
 
-####Verizon Wireless (SMS) - vtext.com - United States
+#####Verizon Wireless (SMS) - vtext.com - United States
