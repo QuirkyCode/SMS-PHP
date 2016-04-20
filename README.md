@@ -1,5 +1,5 @@
 # SMS-PHP
-Send SMS easily using PHP. 
+Send SMS easily using PHP and Email. 
 
 Easily send an SMS message via PHP
 
